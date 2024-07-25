@@ -1,5 +1,5 @@
 # bigramsLayout
-A bigram-considerate version of the default layout
+A bigram-considerate version of the default layout for the Twiddler 4.
 
 # Motivation
 - The default twiddler layout is easy to memorize but terrible for typing and does not contemplate character or bigram frequency.
