@@ -26,4 +26,4 @@ https://norvig.com/mayzner.html
 |N R _|  |G B V|  |X BS Cap|  |   +  *|  +w
 ```
 
-The remaining symbols, letters, etc. remain unchanged from the default layout.
+The remaining symbols remain unchanged from the default layout.
