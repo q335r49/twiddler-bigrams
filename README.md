@@ -4,7 +4,7 @@
 - The default twiddler layout is easy to memorize but terrible for typing and does not contemplate character or bigram frequency.
 - Fast, intuitive typing comes from one finger anticipating the next letter before the previous finger has left the current input. Hence, the ease of entering bigrams should be central in considering key layout.
 - The default twiddler layout is "modal" or "layered". This means that chords can be conceived of as mode switching, that there are special modes for later characters in the alphabet, for numbers, movement, symbols, etc. and that these are not generally intermixed. Modality has advantages in ease of learning and conceptualization.
-- Existing custom layouts are often directed to tuning special characters or functions that are use-case specific. Special use letters and functions (e.g., arrows, numbers, copy and paste) are single use functions that can be individually and arbitrarily asigned since they are generally independent of previous and subsequent letters. Hence, they should be separated modally from alphabetic letters.
+- Existing custom layouts are often directed to tuning special characters or functions that are use-case specific. Special use letters and functions (e.g., arrows, numbers, copy and paste) are single use functions that can be individually and arbitrarily assigned since they are generally independent of previous and subsequent letters. Hence, they should be separated modally from alphabetic letters.
 - Thus, the need arises for a layout that considers character frequency and the ease of typing consecutive letters (bigrams) for a universal prose use case while retaining the modality of the default layout.
 
 ## Heuristics
